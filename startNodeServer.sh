@@ -28,3 +28,19 @@ ls
 echo "started node server ..."
 read -n 1
 #end
+
+
+Last login: Tue Jun 27 11:17:24 2017 from 192.168.12.66
+[root@localhost ~]# npm list --depth=0 -global
+/mnt/app/node/lib
+├── atool-build@0.9.3
+├── babel-cli@6.18.0
+├── case-sensitive-paths-webpack-plugin@1.1.4
+├── clean-webpack-plugin@0.1.15
+├── cnpm@4.5.0
+├── express@4.14.0
+├── mocha@3.1.2
+├── npm@3.10.8
+├── pm2@2.4.2
+└── webpack@1.13.3
+
